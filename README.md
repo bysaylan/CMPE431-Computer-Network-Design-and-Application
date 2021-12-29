@@ -1,2 +1,0 @@
-# CMPE431
-Project
