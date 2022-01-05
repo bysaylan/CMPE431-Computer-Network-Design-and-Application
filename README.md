@@ -9,6 +9,6 @@ Excuting: ./server 1088
 
 Client  
 
-Compile: gcc client.c -o client 
-Excuting: ./client  
+Compile: gcc client.c -o client      
+Excuting: ./client      
 next step: connect 127.0.0.1 1088  
